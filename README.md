@@ -1,4 +1,4 @@
-# Hi 👋, I'm SM Ashraful Zaman
+# Hi, I'm SM Ashraful Zaman
 
 🎓 B.Sc. in Computer Science & Engineering (CSE)  
 🔬 Aspiring AI Researcher | Medical AI | Computer Vision | NLP | Deep Learning
@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am an undergraduate Computer Science student with a strong passion for Artificial Intelligence and Deep Learning research. My research interests include Medical AI, Computer Vision, Natural Language Processing (NLP), and Multimodal Learning.
 
@@ -18,7 +18,7 @@ I enjoy developing AI models, building datasets, and conducting reproducible res
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 - Artificial Intelligence
 - Deep Learning
@@ -31,7 +31,7 @@ I enjoy developing AI models, building datasets, and conducting reproducible res
 
 ---
 
-## 📚 Publications
+## Publications
 
 ### Conference Papers
 
@@ -48,11 +48,11 @@ I enjoy developing AI models, building datasets, and conducting reproducible res
 
   📦 **Dataset Repository:** Science Data Bank (ScienceDB)
 
-🔗 **Dataset DOI:** [10.57760/sciencedb.35376](https://doi.org/10.57760/sciencedb.35376)
+  🔗 **Dataset DOI:** [10.57760/sciencedb.35376](https://doi.org/10.57760/sciencedb.35376)
 
 ---
 
-## 🚀 Current Projects
+## Current Projects
 
 - 🔬 Colorectal Polyp Segmentation using Deep Learning
 - ❤️ AI-assisted TeleHealth Platform
@@ -60,7 +60,7 @@ I enjoy developing AI models, building datasets, and conducting reproducible res
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 ### Programming Languages
 
@@ -92,7 +92,7 @@ I enjoy developing AI models, building datasets, and conducting reproducible res
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 - ⭐ [Polyp Segmentation using PVTv2](https://github.com/zamanRaffi/PolypSeg-PVTv2)
 - ⭐ [Polyp Segmentation using EfficientNet-B5](https://github.com/zamanRaffi/PolypSeg-EfficientNetB5)
@@ -101,7 +101,7 @@ I enjoy developing AI models, building datasets, and conducting reproducible res
 
 ---
 
-## 📈 Research Goals
+## Research Goals
 
 My long-term goal is to pursue a fully funded Master's and PhD in Artificial Intelligence, with research focused on:
 
@@ -113,7 +113,7 @@ My long-term goal is to pursue a fully funded Master's and PhD in Artificial Int
 
 ---
 
-## 🌐 Academic Profiles
+## Academic Profiles
 
 - 📧 **Email:** raffizaman7@gmail.com
 - 🌐 **GitHub:** https://github.com/zamanRaffi
