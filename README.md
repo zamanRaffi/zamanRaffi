@@ -1,4 +1,4 @@
-# Hi, I'm SM Ashraful Zaman
+# Hi, I'm S.M Ashraful Zaman
 
 🎓 B.Sc. in Computer Science & Engineering (CSE)  
 🔬 Aspiring AI Researcher | Medical AI | Computer Vision | NLP | Deep Learning
