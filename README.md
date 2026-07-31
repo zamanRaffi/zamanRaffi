@@ -46,14 +46,16 @@ I enjoy developing AI models, building datasets, and conducting reproducible res
 - 📄 **BanglaMUSE-VID: A Bangla Video-Based Sentiment Analysis Dataset**  
   *Under Review at Elsevier Data in Brief*
 
-> DOI and publication links will be added after publication.
+  📦 **Dataset Repository:** Science Data Bank (ScienceDB)
+
+🔗 **Dataset DOI:** [10.57760/sciencedb.35376](https://doi.org/10.57760/sciencedb.35376)
 
 ---
 
 ## 🚀 Current Projects
 
 - 🔬 Colorectal Polyp Segmentation using Deep Learning
-- ❤️ TeleHealth Platform
+- ❤️ AI-assisted TeleHealth Platform
 - 🧠 Medical AI Research
 
 ---
@@ -108,14 +110,6 @@ My long-term goal is to pursue a fully funded Master's and PhD in Artificial Int
 - Natural Language Processing
 - Foundation Models
 - Trustworthy AI
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zamanRaffi&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zamanRaffi&layout=compact&theme=github_dark)
 
 ---
 
