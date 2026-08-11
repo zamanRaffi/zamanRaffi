@@ -96,8 +96,10 @@ I enjoy developing AI models, building datasets, and conducting reproducible res
 
 - ⭐ [Polyp Segmentation using PVTv2](https://github.com/zamanRaffi/PolypSeg-PVTv2)
 - ⭐ [Polyp Segmentation using EfficientNet-B5](https://github.com/zamanRaffi/PolypSeg-EfficientNetB5)
+- ⭐ [Brain Tumor Classification System](https://github.com/zamanRaffi/brain-mri-classifier)
 - ⭐ [TeleHealth Native App](https://github.com/zamanRaffi/Tele-Health-Native-App)
 - ⭐ [Inventory Business Management System](https://github.com/zamanRaffi/Inventory-Business-Management-System)
+
 
 ---
 
@@ -129,6 +131,6 @@ My long-term goal is to pursue a fully funded Master's and PhD in Artificial Int
 
 ---
 
-⭐ **Thank you for visiting my GitHub profile!**
+ **Thank you for visiting my GitHub profile!**
 
 I am always interested in research collaborations, academic discussions, and open-source AI projects.
