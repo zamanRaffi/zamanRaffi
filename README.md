@@ -39,7 +39,7 @@ I enjoy developing AI models, building datasets, and conducting reproducible res
   *Accepted at IEEE Asia-Pacific Conference on Computer Science and Data Engineering (IEEE CSDE 2026)*
 
 - 📄 **Enhanced Dental Caries Localization in Intraoral Photographs Through Hierarchical Feature Learning and Multi-Scale Fusion**  
-  *Under Review at IEEE Asia-Pacific Conference on Computer Science and Data Engineering (IEEE CSDE 2026)*
+  *Accepted at IEEE Asia-Pacific Conference on Computer Science and Data Engineering (IEEE CSDE 2026)*
   
 ### Journal Papers
 
